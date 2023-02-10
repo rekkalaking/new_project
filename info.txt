@@ -5,7 +5,11 @@ adding fourth line too
 adding third line feature branch to stash
 adding onemore line in fearute branch to stash
 <<<<<<< HEAD
+<<<<<<< HEAD
 adding lines for main branch
 =======
 adding line into critical branch
 >>>>>>> critical
+=======
+adding lines to feature branch to test merge
+>>>>>>> feature
