@@ -4,4 +4,8 @@ adding third Line
 adding fourth line too
 adding third line feature branch to stash
 adding onemore line in fearute branch to stash
+<<<<<<< HEAD
 adding lines for main branch
+=======
+adding line into critical branch
+>>>>>>> critical
